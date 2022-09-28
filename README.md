@@ -1,6 +1,7 @@
 rm -rf BlackMafia 
 
-git clone htpps://github.com/BenPhCheat/BlackMafia.git
+git clone https://github.com/BenPhCheat/BlackMafia.git
+
 
 cd BlackMafia
 
